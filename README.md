@@ -43,5 +43,7 @@ Want to see more of my work? [Github Link](https://github.com/SHD118/Team-Profil
 <br/>
 Want to learn more please contact me at shdesai118@gmail.com
 ## Resources
-https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
+* https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
+* https://fontawesome.com/v6.0/icons?q=gra&m=free
+* https://www.npmjs.com/package/inquirer
 
