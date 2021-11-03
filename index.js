@@ -253,3 +253,9 @@ function employeeArrayReturn() {
     return tmp;
 
 }
+
+const init = () => {
+
+    // Use writeFileSync method to use promises instead of a callback function
+    fs.writeFileSync('index.html', renderHTML());
+}
