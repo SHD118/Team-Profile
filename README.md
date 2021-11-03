@@ -57,6 +57,10 @@ https://drive.google.com/file/d/1OEZiRV_OT2mhPgnwRQ3iIsYqFI-36Nm7/view?usp=shari
 
 ![](image/test.PNG)
 
+## Links
+* https://shd118.github.io/Team-Profile/
+* https://github.com/SHD118/Team-Profile
+
 ## Resources
 * https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
 * https://fontawesome.com/v6.0/icons?q=gra&m=free
