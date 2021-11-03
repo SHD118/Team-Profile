@@ -22,6 +22,7 @@ git@github.com:SHD118/Team-Profile.git
 * Ensure all dependencies are installed (jest and inquirer) installation instructions are below:
 ```
 npm install jest
+
 npm install inqurier
 ```
 ```
