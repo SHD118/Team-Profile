@@ -41,6 +41,9 @@ npm run test
 ## Questions?
 Want to see more of my work? [Github Link](https://github.com/SHD118/Team-Profile)
 <br/>
+## Video
+
+## Screenshots
 Want to learn more please contact me at shdesai118@gmail.com
 ## Resources
 * https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
