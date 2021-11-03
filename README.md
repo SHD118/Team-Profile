@@ -28,7 +28,12 @@ npm install
 node index.js
 ```
 ## Usage
-N/A
+* Naviagte to the project directory in a integrated terminal
+* Run the index.js (node index.js)
+* Answer all the prompted questions in the terminal 
+* Once "Finished building the Team" and index.html page will generate.
+* To View right click the index.html file and open it in a broswer of your choice
+* You have successfully generated and are now able to view your team profile
 ## License
 Free Use
 ## Tests
