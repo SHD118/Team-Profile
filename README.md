@@ -26,8 +26,8 @@ npm install jest
 ```
 npm install inqurier
 ```
-```
-* Run the the best team profile generator by typing the following in the terminal:
+
+Run the the best team profile generator by typing the following in the terminal:
 ```
 node index.js
 ```
