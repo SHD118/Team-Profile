@@ -243,3 +243,13 @@ function GenerateEngineer(engineerArray) {
     }
    
 }
+
+function employeeArrayReturn() {
+    var tmp ="";
+    for (let i = 0; i < employeeArray.length; i++) {
+        tmp += employeeArray[i];
+    }
+   
+    return tmp;
+
+}
