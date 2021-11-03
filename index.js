@@ -194,3 +194,28 @@ function GenerateManager(managerArray) {
   employeeArray.push(temp);
     
 }
+
+function GenerateIntern(internArray) {
+    
+    for (let i = 0; i < internArray.length; i++) {
+        var temp =
+            `<div class="col-3 mx-auto">
+            <div class="card" style="width: 18rem;">
+    <!-- <img src="..." class="card-img-top" alt="..."> -->
+    <div class="card-header text-white bg-primary">
+      <h5 class="card-title">${internArray[i].getName()}</h5>
+    <p class="card-text"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="mug-saucer" class="svg-inline--fa fa-mug-saucer icons" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path fill="currentColor" d="M512 32H120c-13.25 0-24 10.75-24 24L96.01 288c0 53 43 96 96 96h192C437 384 480 341 480 288h32c70.63 0 128-57.38 128-128S582.6 32 512 32zM512 224h-32V96h32c35.25 0 64 28.75 64 64S547.3 224 512 224zM560 416h-544C7.164 416 0 423.2 0 432C0 458.5 21.49 480 48 480h480c26.51 0 48-21.49 48-48C576 423.2 568.8 416 560 416z"></path></svg> Intern</p>
+    </div>
+    <div class="card-body bg-light py-5 px-4" style="height: 13rem;">
+    <ul class="list-group list-group-flush">
+      <li class="list-group-item">ID: ${internArray[i].getId()}</li>
+      <li class="list-group-item">Email: ${internArray[i].getEmail()}</li>
+      <li class="list-group-item">School: ${internArray[i].getSchool()}</li>
+    </ul>
+    </div>
+    </div>
+  </div>`;
+        employeeArray.push(temp);
+    }
+
+}
