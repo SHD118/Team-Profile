@@ -1,10 +1,15 @@
 const inqurier = require("inquirer")
 const fs = require("fs")
+const Employee = require("./lib/Employee")
+const Engineer = require("./lib/Engineer")
+const Intern = require("./lib/Intern")
+const Manager = require("./lib/Manager")
 var managerArray = []
 var internArray = []
 var employeeArray = []
 var engineerArray = [];
 var htmlCode;
+
 promptManager()
 
 function promptManager ()  {
