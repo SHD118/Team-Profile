@@ -100,3 +100,36 @@ function promptEngineer() {
     })
     
 }
+
+function selectRole() {
+    inqurier.prompt([
+        {
+            type: "list",
+            choices: ["Intern", "Engineer", "Finishing building your team"],
+            message: "Pick a role",
+            name: "role"
+        }
+    ])
+    .then((data) => {
+        if (data.role === "Engineer") {
+            promptEngineer();
+        }
+        if (data.role === "Intern") {
+            promptIntern();
+        }
+        if (data.role === "Finishing building your team") {
+            GenerateManager(managerArray);
+            //generate egineer cards
+            if (engineerArray) {
+                GenerateEngineer(engineerArray);
+            }
+            if (internArray) {
+                GenerateIntern(internArray);
+            }
+            renderHTML()
+            init()
+            console.log(renderHTML());
+
+        }
+     }) 
+}
