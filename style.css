@@ -1,3 +1,10 @@
+*{
+font-family: 'Bebas Neue', cursive;
+font-family: 'Fruktur', cursive;
+font-family: 'Source Code Pro', monospace;
+font-family: 'Zen Antique', serif;
+color: white;
+}
 .card{
     /* display:inline-block;
  
