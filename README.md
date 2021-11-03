@@ -40,13 +40,14 @@ npm run test
 * Confirm all four test files pass (see screenshot below). Test files are located in the tests folder and are titled: Employee.test.js, Engineer.test.js, Intern.test.js, and Manager.test.js
 ## Questions?
 Want to see more of my work? [Github Link](https://github.com/SHD118/Team-Profile)
+Want to learn more please contact me at shdesai118@gmail.com
 <br/>
 ## Video
-
+<br/>
 ## Screenshots
 ![](image/website.PNG)
 ![](image/test.PNG)
-Want to learn more please contact me at shdesai118@gmail.com
+<br/>
 ## Resources
 * https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
 * https://fontawesome.com/v6.0/icons?q=gra&m=free
