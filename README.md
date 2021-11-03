@@ -19,11 +19,13 @@ The purpose of this project was to build a command-line base application to gene
 git@github.com:SHD118/Team-Profile.git
 ```
 * Ensure you are in the current working directory
-* Install dependencies (jest and inquirer) by opening the terminal (ctrl + j on windows) and running:
+* Ensure all dependencies are installed (jest and inquirer) installation instructions are below:
 ```
-npm install
+npm install jest
+npm install inqurier
 ```
-* Run the project by typing the following in the terminal:
+```
+* Run the the best team profile generator by typing the following in the terminal:
 ```
 node index.js
 ```
