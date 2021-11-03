@@ -32,7 +32,12 @@ N/A
 ## License
 Free Use
 ## Tests
-  N/A
+* Ensure you have installed jest (this was installed earlier when 'npm install' was run in the command line)
+* In the command line, write:
+```
+npm run test
+```
+* Confirm all four test files pass (see screenshot below). Test files are located in the tests folder and are titled: Employee.test.js, Engineer.test.js, Intern.test.js, and Manager.test.js
 ## Questions?
 Want to see more of my work? [Github Link](https://github.com/SHD118/Team-Profile)
 <br/>
