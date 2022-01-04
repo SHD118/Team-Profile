@@ -64,7 +64,7 @@ https://www.awesomescreenshot.com/video/5886615?key=8e58678b166e2cd4032ef5bbbd91
 
 ## Links
 * https://shd118.github.io/Team-Profile/
-* https://github.com/SHD118/Team-Profile
+
 
 ## Resources
 * https://www.npmjs.com/package/inquirer
